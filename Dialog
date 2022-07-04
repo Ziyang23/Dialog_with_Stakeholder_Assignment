@@ -1,0 +1,38 @@
+Name: Lee Zi Yang    |
+Matric: 206937       |
+_____________________+
+
+A: architect 
+S: Stakeholder
+
+
+A: A very good day sir. I am a software architect of Waterland Inventory Management System
+
+S: I am fine. Thank you sir. Any problem? 
+
+A: Sir, may I know what do you think about the current system? Are there any limitations or improvements
+that can be done? For example, the system performance, security, or any constraints that we must comply to? 
+
+S: In terms of performance, the current system are not able to perform well. Thus, I am hopping that the new system could be able to 
+provides the users with better performance; for example, when they are using the system to store the inventory or search for the desired 
+inventory, if possible, I wish it could take less times to perform the task. 
+
+A:  Alright sir. Is there any other requirement? 
+
+S: Oh yeah, besides performance, if possible, I would like the system be more asthetic and user-friendly. The current system are 
+looking really bad, for the interfaces seem confusing sometimes. 
+
+A: Oh. Noted Sir. So, sir means to you wish to improve the usability of the system, right? 
+
+S: Yeah! That's what I mean. Besides, if possible, I do really wish that the users able to learn all the features of the system 
+without any doubt; for example, they should be able to familiar with all the features of the system within 10 minutes. 
+
+A: Alright, Sir. May I ask that any constraints on the budget? 
+
+S: Hmm...Actually... we don't have sufficient budget on purchasing the expensive technologies. 
+
+A: It's okay, Sir. I will take that into consideration. We will spend as minimum as possible to develop the system. No worry!
+
+B: Cool. Thank you so much then. Any other question? 
+
+A: So far, no question already. I will contact you if I meet any problems. Thank you so much for your precious times. 
